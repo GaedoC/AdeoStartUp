@@ -1,1 +1,1 @@
-# StartApp Adeo
+# StartApp Example Ionic
